@@ -1,0 +1,17 @@
+{
+  "name": "priyank-bhatt-teaching-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive teaching portfolio website for Priyank Bhatt.",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod --regions yul1",
+    "check": "node --check app.js"
+  },
+  "keywords": [
+    "teaching-portfolio",
+    "higher-education",
+    "information-technology",
+    "mobile-application-development"
+  ]
+}
